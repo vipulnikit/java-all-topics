@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.scaler.lld</groupId>
-  <artifactId>all-topics-demo</artifactId>
+  <artifactId>java-all-topics</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>all-topics-demo</name>
+  <name>java-all-topics</name>
 
   <properties>
     <maven.compiler.source>21</maven.compiler.source>
